@@ -28,10 +28,10 @@ docker build -t ai-system-demo-clean .
 Replace `<your_key>` with your actual OpenAI API key:
 
 docker run -d
---name ai-demo-clean
+--name ai-demo
 -e OPENAI_API_KEY=<your_key>
 -p 8000:8000
-ai-system-demo-clean
+product-data-service
 
 
 ### 3. Verify the service is running
