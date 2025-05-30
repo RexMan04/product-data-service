@@ -21,7 +21,7 @@ cd product-data-service
 
 ### 1. Build the Docker image
 
-docker build -t ai-system-demo-clean .
+docker build -t product-data-service .
 
 ### 2. Run the container
 
