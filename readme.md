@@ -10,7 +10,7 @@ Environment Variables
 OPENAI_API_KEY: Your OpenAI API key for LLM queries
 
 Project Structure
-mondayprep_clean/
+product-data-service/
 ├── Dockerfile # Defines the Docker image build
 ├── README.md # This file
 ├── requirements.txt # Python dependencies
